@@ -1,0 +1,6 @@
+{
+  "name": "Snake Bite Terminal",
+  "description": "A high-fidelity red team penetration testing terminal simulator with Kali Linux tool simulations powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
